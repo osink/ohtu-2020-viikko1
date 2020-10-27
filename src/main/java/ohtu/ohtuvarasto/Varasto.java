@@ -1,4 +1,4 @@
-package ohtu.ohtuvarasto;
+package ohtu.ohtuvarasto; //Ylimääräinen lisäyskommentti
 
 public class Varasto {
 
