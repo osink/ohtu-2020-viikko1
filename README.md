@@ -3,3 +3,4 @@
 ![GitHub Actions](https://github.com/osink/ohtu-2020-viikko1/workflows/Java%20CI%20with%20Gradle/badge.svg)
 [![codecov](https://codecov.io/gh/osink/ohtu-2020-viikko1/branch/main/graph/badge.svg?token=OG9ESZX4Y5)](undefined)
 
+https://github.com/osink/ohtu-tehtavat
